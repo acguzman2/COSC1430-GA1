@@ -15,7 +15,7 @@ void getAvgsOfExams(double examAvgs[], int numOfExams, int numOfStudents) {
 }
 
 void getAvgsOfStudents(double studentAvgs[], double weights[], int numOfExams, int numOfStudents) {
-	
+
 }
 
 void writeFinalGrades(double examAvgs[], double studentGrades[], int numOfExams, int numOfStudents) {
@@ -24,6 +24,5 @@ void writeFinalGrades(double examAvgs[], double studentGrades[], int numOfExams,
 
 
 int main() {
-	
 	return(0);
 }
